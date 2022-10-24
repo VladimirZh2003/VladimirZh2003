@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Unit4\Unit4\obj\Debug\Unit4.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Unit4\Unit4\obj\Debug\Unit4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Unit4\Unit4\bin\Debug\Unit4.exe.config
+C:\Users\USER\source\repos\Unit4\Unit4\bin\Debug\Unit4.exe
+C:\Users\USER\source\repos\Unit4\Unit4\bin\Debug\Unit4.pdb
+C:\Users\USER\source\repos\Unit4\Unit4\obj\Debug\Unit4.exe
+C:\Users\USER\source\repos\Unit4\Unit4\obj\Debug\Unit4.pdb

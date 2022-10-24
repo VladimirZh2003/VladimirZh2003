@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Unit2\Unit2\bin\Debug\Unit2.exe.config
+C:\Users\USER\source\repos\Unit2\Unit2\bin\Debug\Unit2.exe
+C:\Users\USER\source\repos\Unit2\Unit2\bin\Debug\Unit2.pdb
+C:\Users\USER\source\repos\Unit2\Unit2\obj\Debug\Unit2.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Unit2\Unit2\obj\Debug\Unit2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Unit2\Unit2\obj\Debug\Unit2.exe
+C:\Users\USER\source\repos\Unit2\Unit2\obj\Debug\Unit2.pdb

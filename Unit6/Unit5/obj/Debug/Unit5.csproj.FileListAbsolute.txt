@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Unit5\Unit5\bin\Debug\Unit5.exe.config
+C:\Users\USER\source\repos\Unit5\Unit5\bin\Debug\Unit5.exe
+C:\Users\USER\source\repos\Unit5\Unit5\bin\Debug\Unit5.pdb
+C:\Users\USER\source\repos\Unit5\Unit5\obj\Debug\Unit5.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Unit5\Unit5\obj\Debug\Unit5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Unit5\Unit5\obj\Debug\Unit5.exe
+C:\Users\USER\source\repos\Unit5\Unit5\obj\Debug\Unit5.pdb

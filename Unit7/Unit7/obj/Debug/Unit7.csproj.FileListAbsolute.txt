@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Unit7\Unit7\bin\Debug\Unit7.exe.config
+C:\Users\USER\source\repos\Unit7\Unit7\bin\Debug\Unit7.exe
+C:\Users\USER\source\repos\Unit7\Unit7\bin\Debug\Unit7.pdb
+C:\Users\USER\source\repos\Unit7\Unit7\obj\Debug\Unit7.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Unit7\Unit7\obj\Debug\Unit7.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Unit7\Unit7\obj\Debug\Unit7.exe
+C:\Users\USER\source\repos\Unit7\Unit7\obj\Debug\Unit7.pdb
